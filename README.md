@@ -1,4 +1,5 @@
 # Group 1 Capstone Project
+Link to Presentation Slides: https://amedeloitte-my.sharepoint.com/personal/jklemm_deloitte_com/Documents/Capstone%20AI%20Academy.pptx?web=1
 
 ## Overview
 
@@ -57,4 +58,4 @@ With our recommendations, Computing Vision will be able to have and optimal entr
 
 ## Conclusion
 
-We recommend creating Action, Adventure, and Animation movies based on Non-Original ideas, and utilized production budget of $161,500,000 to earn at least $99,478,358.79 in gross domestic income.
+We recommend creating Action, Adventure, and Animation movies based on Non-Original ideas, and utilize a production budget of $161,500,000 to earn at least $99,478,358.79 in gross domestic income.
